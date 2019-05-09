@@ -8,6 +8,10 @@ Desenvolver um MVP, através dos conceitos desenvolvidos na referida disciplina,
 A seguinte planilha armazenada no Google Docs diz respeito à quais atividades cada membro trabalhou:
 https://docs.google.com/spreadsheets/d/1P4ohOJMQUdpZbif-fI0VrVwHZ_boX2D2SEADRmGzp1E/edit#gid=0
 
+# Trello
+Para realizar este projeto, contamos com a plataforma de desenvolvimento ágil Trello, que se encontra no link:
+https://trello.com/b/y6lokbIJ/mercurysoft-engsoft
+
 # Integrantes
 Uelton Cardeal - 9402849
 Gabriela Rodrigues - 6605109
