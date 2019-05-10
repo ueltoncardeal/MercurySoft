@@ -12,6 +12,10 @@ https://docs.google.com/spreadsheets/d/1P4ohOJMQUdpZbif-fI0VrVwHZ_boX2D2SEADRmGz
 Para realizar este projeto, contamos com a plataforma de desenvolvimento ágil Trello, que se encontra no link:
 https://trello.com/b/y6lokbIJ/mercurysoft-engsoft
 
+# Backlog
+Planilha do backlog com user stories:
+https://docs.google.com/spreadsheets/d/1QYPARReVB3uAtAjSM2AQ2U7gxcXyznzrmRce-YunDKI/edit?usp=sharing
+
 # Integrantes
 Uelton Cardeal - 9402849
 Gabriela Rodrigues - 6605109
