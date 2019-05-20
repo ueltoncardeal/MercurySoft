@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#pcarousel {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #ffffff;	
+	font-weight: bold;
+	height: 15px;
+	text-align: left;
+}
+
+#h5carousel {
+	font-family: Impact, Charcoal, sans-serif;
+	color: #ffffff;	
+	text-align: left;
+	font-weight: unset;
+
+}
