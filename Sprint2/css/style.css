@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+#pcarousel {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #ffffff;	
+	font-weight: bold;
+	height: 15px;
+	text-align: left;
+}
+
+#h5carousel {
+	font-family: Impact, Charcoal, sans-serif;
+	color: #ffffff;	
+	text-align: left;
+	font-weight: unset;
+
+}
+
+#lblResultado{
+	font-size: 15px;
+}
+
+#jumbotronPrincipal{
+	padding-top: 30px;
+}
+
+#jumbotronResult{
+	padding-top: 5px;
+	height: 280px;
+}
+
+#navbar1{
+	height: 50px;
+}
+
+#navbar2{
+	height: 40px;
+}
+
+.container-bg{
+	background-color: red; 
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+
+}
