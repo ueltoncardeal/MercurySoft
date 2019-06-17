@@ -1,0 +1,12 @@
+@charset "uft-8";
+
+.btn-custom{
+	padding: 1px 15px 3px 2px;
+	border-radius: 50px;
+}
+
+.btn-icon{
+	padding: 8px;
+	background: #ffffff;
+
+}
