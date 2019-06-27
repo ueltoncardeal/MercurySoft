@@ -25,7 +25,7 @@ Planilha do backlog com user stories:
 https://docs.google.com/spreadsheets/d/1QYPARReVB3uAtAjSM2AQ2U7gxcXyznzrmRce-YunDKI/edit?usp=sharing
 
 # Video
-Video com o projeto funcionando
+Video com o projeto funcionando:
 https://drive.google.com/drive/folders/1Rs75mxbd0EmfuP3RfgOvOSIDh5niuvX6
 
 # Integrantes
