@@ -24,6 +24,10 @@ https://docs.google.com/document/d/13iELVWLC-4oRGh1tcfQPdysmjhXG9NoFRvF1RDbNgRo/
 Planilha do backlog com user stories:
 https://docs.google.com/spreadsheets/d/1QYPARReVB3uAtAjSM2AQ2U7gxcXyznzrmRce-YunDKI/edit?usp=sharing
 
+# Video
+Video com o projeto funcionando
+https://drive.google.com/drive/folders/1Rs75mxbd0EmfuP3RfgOvOSIDh5niuvX6
+
 # Integrantes
 Uelton Cardeal - 9402849
 Gabriela Rodrigues - 6605109
