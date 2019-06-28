@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+#container_prox_eventos{
+	height: 150px;
+  	width: 150px;
+
+}
+
+#pcarousel {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #ffffff;	
+	font-weight: bold;
+	height: 15px;
+	text-align: left;
+}
+
+#h5carousel {
+	font-family: Impact, Charcoal, sans-serif;
+	color: #000000;	
+	text-align: left;
+	font-weight: unset;
+
+}
+
+#titleevent{
+	font-family: Verdana, Geneva, sans-serif;
+	color: red;
+}
+
+#jumbotronPrincipal{
+	padding-top: 30px;
+}
+
+#jumbotronResult{
+	padding-top: 5px;
+	height: 280px;
+}
+
+#navbar1{
+	height: 50px;
+}
+
+#navbar2{
+	height: 40px;
+}
+
+.container-bg{
+	background-color: #98c3c3; 
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+
+}
+

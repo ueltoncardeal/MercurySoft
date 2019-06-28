@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+
+#container_prox_eventos{
+	color: #000000;
+	border-color: #000000;
+	background-color: #f29048;
+	height: 200px;
+  	width: 150px;
+
+}
+
+#jumbotronPrincipal{
+	color: #000000;
+	background-color: #f29048;
+	padding-top: 30px;
+	
+}
+
+#jumbotronResultado{
+	background-color: #a84967;
+	padding-top: 5px;
+	height: 280px;
+}
+
+#navbar1{
+	color: #000000; height: 50px;
+}
+
+#navbar2{
+	border-color: #000000; 
+	height: 40px;
+	color: #a4a4a5;
+}
+
+.container-bg{
+	background-color: #000000; 
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+
+}
+
+
+#btnPesquisar{
+	border-color: #000000;
+	background-color: #f29048;
+	color: #000000;
+
+}
+
+#entrar{
+
+white-space: 20px;
+background-color: #f29048;
+border-color: #000000;
+color: #000000;
+}
+
+#cadastrar{
+white-space: 20px;
+background-color: #f29048;
+border-color: #000000;
+color: #000000;
+}
+
+
+#containerPrincipal{
+	color: #000000;
+}
+
+#carouselExampleControls{
+
+	background-color: #000000;
+}
+
+
+#titleResult{
+	color: #000000;
+	background-color: #e1e1e1;
+	border-color: #000000;
+}
+
+#tituloEvento{
+
+	color: #000000;
+}
+
+#dataEvento{
+	border-color: #000000;
+	font-style: inherit;
+	color: #000000;
+}
+
+#lblResultado{
+	background-color: #e1e1e1;
+	color: #000000;
+}
+
+#navbarSupportedContent{
+	background-color: #e1e1e1;
+	color: #000000;
+}
